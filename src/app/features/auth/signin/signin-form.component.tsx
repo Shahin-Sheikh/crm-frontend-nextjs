@@ -16,7 +16,13 @@ function SignIn() {
           <img src="/background.png " width={600} height={600} />
         </div>
       </div>
-      <div className="bg-white p-20 rounded h-[870px] w-[940px]">sss</div>
+      <div className="bg-white p-20 rounded h-[870px] w-[940px]">
+        <div className="pt-[115px] pl-[270px]">
+          <h1 className="text-[#0A1629] font-sans font-[700] text-[22px] leading-[30px] h-[30px]">
+            Sign In to Woorkroom
+          </h1>
+        </div>
+      </div>
     </div>
   );
 }
